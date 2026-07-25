@@ -35,11 +35,27 @@
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+| :--- | :--- | :---: |
+| 🚗 **[Alugue um Carro](https://github.com/gabrielpirovanemiguel/grupo3-alugue-um-carro)** | Projeto em grupo do treinamento da IN Junior aplicando conceitos de Front-end. | `HTML` `CSS` `JS` |
+| 🧠 **[Algoritmo de Similaridade (Bag-of-Words)](https://github.com/Marcyscofanohdisjhf/Algoritmo-de-similaridade-de-programas-inspirado-em-Bag-of-Words-in-Haskell)** | Implementação de algoritmo em linguagem funcional para análise de similaridade. | `Haskell` |
+| 🌐 **[Desafios Front-end & APIs](https://github.com/Marcyscofanohdisjhf/TarefaINJunior_individual_APIsPromises)** | Projetos focados em manipulação de DOM, consumo de APIs e Promises. | `JS` `Promises` `DOM` |
+
+---
+
+### 📊 Minhas Estatísticas & Contribuições
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Marcyscofanohdisjhf&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Marcyscofanohdisjhf&theme=tokyonight" alt="Sequência de Commits" />
+  
+  <br/><br/>
+  
+  <!-- Gráfico dinâmico de contribuições -->
+  <img src="https://ghchart.rshah.org/tokyonight/Marcyscofanohdisjhf" alt="Gráfico de Contribuições do GitHub" width="100%" />
 </div>
+
 ---
 
 <div align="center">
