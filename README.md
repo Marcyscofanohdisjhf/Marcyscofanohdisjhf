@@ -49,11 +49,6 @@
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Marcyscofanohdisjhf&theme=tokyonight" alt="Sequência de Commits" />
   
-  <br/><br/>
-  
-  <img src="https://kaxes-github-readme-activity-graph.vercel.app/graph?username=Marcyscofanohdisjhf&bg_color=0d1117&color=b388ff&line=a855f7&point=e9d5ff&area=true&hide_border=true" alt="Gráfico de Atividade Roxo" width="100%" />
-</div>
-
 ---
 
 <div align="center">
