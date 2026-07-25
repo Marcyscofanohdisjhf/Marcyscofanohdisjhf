@@ -44,7 +44,6 @@
 | 🌐 **[Desafios Front-end & APIs](https://github.com/Marcyscofanohdisjhf/TarefaINJunior_individual_APIsPromises)** | Projetos focados em manipulação de DOM, consumo de APIs e Promises. | `JS` `Promises` `DOM` |
 
 ---
-
 ### 📊 Minhas Estatísticas & Contribuições
 
 <div align="center">
@@ -52,8 +51,7 @@
   
   <br/><br/>
   
-  <!-- Gráfico dinâmico de contribuições -->
-  <img src="https://ghchart.rshah.org/tokyonight/Marcyscofanohdisjhf" alt="Gráfico de Contribuições do GitHub" width="100%" />
+  <img src="https://kaxes-github-readme-activity-graph.vercel.app/graph?username=Marcyscofanohdisjhf&bg_color=0d1117&color=b388ff&line=a855f7&point=e9d5ff&area=true&hide_border=true" alt="Gráfico de Atividade Roxo" width="100%" />
 </div>
 
 ---
