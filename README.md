@@ -32,6 +32,7 @@
 ![FastAPI / REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 
 ---
 
@@ -39,9 +40,9 @@
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :---: |
-| 🚗 **[Alugue um Carro](https://github.com/gabrielpirovanemiguel/grupo3-alugue-um-carro)** | Projeto em grupo do treinamento da IN Junior aplicando conceitos de Front-end. | `HTML` `CSS` `JS` |
-| 🧠 **[Algoritmo de Similaridade (Bag-of-Words)](https://github.com/Marcyscofanohdisjhf/Algoritmo-de-similaridade-de-programas-inspirado-em-Bag-of-Words-in-Haskell)** | Implementação de algoritmo em linguagem funcional para análise de similaridade. | `Haskell` |
-| 🌐 **[Desafios Front-end & APIs](https://github.com/Marcyscofanohdisjhf/TarefaINJunior_individual_APIsPromises)** | Projetos focados em manipulação de DOM, consumo de APIs e Promises. | `JS` `Promises` `DOM` |
+| 🚗 **[Alugue um Carro](https://github.com/Marcyscofanohdisjhf/grupo3-alugue-um_carro.git)** | Projeto em grupo do treinamento da IN Junior aplicando conceitos de Front-end. | `HTML` `CSS` `JS` |
+| 🧠 **[Algoritmo de Similaridade (Bag-of-Words)](https://github.com/GabriellaPompeu/Algoritmo-de-similaridade-de-programas-inspirado-em-Bag-of-Words-BoW-.git)** | Implementação de algoritmo em linguagem funcional para análise de similaridade. | `Haskell` |
+| 🌐 **[Desafios Front-end & APIs](https://github.com/Marcyscofanohdisjhf/TarefaINJunior_individual_APIsPromises.git)** | Projetos focados em manipulação de DOM, consumo de APIs e Promises. | `JS` `Promises` `DOM` |
 
 ---
 ### 📊 Minhas Estatísticas & Contribuições
