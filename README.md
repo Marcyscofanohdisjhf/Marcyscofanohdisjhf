@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Banners / Saudação -->
-  <h1>Olá! Eu sou a Marcelle Scofano 👋</h1>
+  <h1>Olá! Meu nome é Marcelle Scofano 👋</h1>
   <p><i>Estudante de Ciência da Computação na Universidade Federal Fluminense (UFF) 🎓</i></p>
 
   <p>
